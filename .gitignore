@@ -1,0 +1,15 @@
+# Arquivos compilados do Java
+*.class
+bin/
+out/
+
+# Variáveis / Arquivos de ambiente locais
+*.env
+api-key.txt
+
+# Configurações de IDEs (VS Code, Eclipse, IntelliJ)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
